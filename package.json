@@ -1,0 +1,19 @@
+{
+  "name": "roblox_webapplications",
+  "version": "1.0.0",
+  "description": "An online website that allows users to submit applications to a Roblox group, which based on the result, get ranked in the group or not. ",
+  "main": "bin/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frostcloud-Development/roblox_webapplications.git"
+  },
+  "author": "Frostcloud",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Frostcloud-Development/roblox_webapplications/issues"
+  },
+  "homepage": "https://github.com/Frostcloud-Development/roblox_webapplications#readme"
+}
